@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+	{{ Form::label('$0', '$0') }}
+	{{ Form::text('$0', null, ['class' => 'form-control']) }}
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>textfield</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.php</scope> -->
+</snippet>

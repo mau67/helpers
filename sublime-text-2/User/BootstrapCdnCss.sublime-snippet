@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bootstrapcdncss</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.html</scope>
+</snippet>
